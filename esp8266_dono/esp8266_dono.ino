@@ -10,8 +10,6 @@ char password[] = "byebyegoodbye";  // your network key
 //Add a SSL client
 WiFiClientSecure client;
 
-
-
 long checkRedditDueTime;
 int checkRedditDelay = 60000; // 60 x 1000 (1 minute)
 
